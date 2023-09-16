@@ -11,7 +11,7 @@ Installing
       alt="Get it on F-Droid"
       height="80">](https://f-droid.org/app/org.jak_linux.dns66)
 
-You can either install it via F-Droid, using the official F-Droid repository, or you can use my personal repository at https://jak-linux.org/fdroid/repo which gets updates ASAP.
+You can either install it via F-Droid, using the official F-Droid repository, or you can use my personal repository at https://jak-linux.org/fdroid/repo which gets 
 
 You can also download apk files in GitHub's download section. Currently, these are the same files as in my personal F-Droid repository, but that might change in the future.
 
