@@ -1,8 +1,7 @@
 DNS-Based Host Blocking for Android
 ===================================
 This is a DNS-based host blocker for Android. In the default configuration,
-several widely-respected host files are used to block ads, malware, and other
-
+several widely-respected host files are used to block ads, malware
 [![Build Status](https://travis-ci.com/julian-klode/dns66.svg?branch=master)](https://travis-ci.com/julian-klode/dns66)
 
 Installing
